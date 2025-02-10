@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+pydantic[email]
+SQLAlchemy
+pymysql
+alembic
+python-dotenv
+passlib[bcrypt]
+pyjwt
+httpx
+fastapi-jwt-auth
